@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Estilos globales básicos, si es necesario */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa; /* Un color suave de fondo, por ejemplo */
+  }
+  
+  h1, h2, h3 {
+    font-weight: bold;
+  }
+  
+  /* Estilo para elementos que deseas personalizar globalmente */
+  my-element {
+    display: block;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
